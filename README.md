@@ -4,7 +4,7 @@
 
 ## Description
 
-![Birthday Email Sender](https://example.com/birthday_email_sender.gif)
+![Cookie Monster GIF](https://media.giphy.com/media/iGMKzdTYPp32hpUq8z/giphy.gif)
 
 The **Birthday Email Sender** is a simple Python script that automatically sends personalized birthday email messages to your contacts based on data stored in a CSV file.
 
@@ -40,7 +40,7 @@ git clone <repository_url>
 8. **Provide Feedback**\
   If you have any feedback, suggestions, or issues with the project, don't hesitate to open an issue on GitHub. Your input is valuable for improving the application and making it more user-friendly.
 
-That's it! Follow these steps to make the most out of the Birthday Email Sender project on GitHub. Spread joy and celebrate special moments with your loved ones!🎉📧
+That's it! Follow these steps to make the most out of the Automated Birthday Wisher project on GitHub. Spread joy and celebrate special moments with your loved ones!🎉📧
   
 ## Credits
 
